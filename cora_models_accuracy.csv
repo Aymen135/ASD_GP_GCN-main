@@ -1,0 +1,11 @@
+algorithm,accuracy
+Logistic Regression,0.7915129151291513
+K-Nearest Neighbors,0.5166051660516605
+Support Vector Machine Linear,0.7490774907749077
+Support Vector Machine RBF,0.7619926199261993
+Decision Tree,0.6549815498154982
+Random Forest,0.7933579335793358
+GaussienNB,0.5018450184501845
+Linear Discriminant Analysis,0.6125461254612546
+Ridge,0.7343173431734318
+Graph Convolutional Network,0.826
